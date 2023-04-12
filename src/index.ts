@@ -1,5 +1,5 @@
 import {findElement} from './tableau';
 const tableau = ['a', 'b', 'c'];
-const element = 'b';
+const element = 'x';
 const result = findElement(tableau, element);
 console.log(result);
